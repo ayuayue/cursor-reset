@@ -1,0 +1,5 @@
+build/
+dist/
+cookie.json
+__pycache__/
+*.spec
